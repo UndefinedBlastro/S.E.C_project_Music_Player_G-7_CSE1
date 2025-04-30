@@ -1,5 +1,5 @@
 # Singularity
-Fork of [Blackhole](https://github.com/BrightDV/BlackHole/).
+Fork of [Singularity by atinba](https://github.com/atinba/Singularity).
 
 ## Changes
 
