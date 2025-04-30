@@ -50,15 +50,13 @@ Fork of [Singularity by atinba](https://github.com/atinba/Singularity).
 - Tag Editing Support
 - Trending Search Results
 - YouTube Search Support
-- Promoted Youtube Playlists
 - Play videos as audio
 - Auto Song Recommendations
 - Inbuilt Equalizer
 - Backup & Restore
 - Auto Update Check
 - Cache support
-- No Subscription
-- No Ads
+
 
 and much more...
 Check it yourself :)
